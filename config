@@ -1,0 +1,5 @@
+# CAEN
+  Host umich
+  HostName login.engin.umich.edu
+  User tianhaoz
+  Compression yes
